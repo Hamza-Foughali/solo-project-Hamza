@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    background-image: url(https://img.freepik.com/premium-photo/illustration-fitness-equipments-design-background_916191-36138.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1699488000&semt=ais);
+    background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+header {
+    background: #466368;
+    background: radial-gradient(#648880, #293f50);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 1em;
+}
+
+h2 {
+    color: rgb(252, 254, 252);
+}
+
+main {
+    padding: 1em;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: white;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #466368;
+    background-color: radial-gradient(#648880, #293f50);
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #648880;
+}
+
+p {
+    color: white;
+}
+
+ul {
+    color: white;
+}
+
+iframe {
+  display: block;
+  margin: 20px auto;
+}
